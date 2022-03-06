@@ -69,7 +69,7 @@ Hoje buscando atuar como Desenvolvedor Back-End, utilizando a plataforma .NET e 
  **Linguagens:**
 <!--   ![C#](https://img.shields.io/badge/--333333?logo=csharp&style=flat&logoColor=white) -->
   ![.NET](https://img.shields.io/badge/-.NET-333333?logo=windows&style=flat&logoColor=1572B6)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)-->
 <!--   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) -->
 <!--   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6) -->
