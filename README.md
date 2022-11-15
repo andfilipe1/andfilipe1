@@ -79,6 +79,7 @@ Hoje buscando atuar como Desenvolvedor Back-End, utilizando a plataforma .NET e 
   ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Mongodb](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=Mongodb)
+  ![PostgreSql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=Postgresql)
   
  **InfraEstrutura:**
  
@@ -88,9 +89,13 @@ Hoje buscando atuar como Desenvolvedor Back-End, utilizando a plataforma .NET e 
 <!--   ![Kubernetes]()
   ![Kubernetes]() -->
   
-  
-  
-  
+
+ **Cloud:**
+ 
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+  ![AZURE](https://img.shields.io/badge/-AZURE-333333?style=flat&logo=AZURE)
+
+
 
 **Utilidades:**
 
