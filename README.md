@@ -100,7 +100,7 @@ Hoje buscando atuar como Desenvolvedor Back-End, utilizando a plataforma .NET e 
 **Utilidades:**
 
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Insomina](https://img.shields.io/badge/-Postman-333333?style=flat&logo=insomina)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
 **DevOps:**
 
